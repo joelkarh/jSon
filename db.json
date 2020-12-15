@@ -1,0 +1,21 @@
+{
+    "events": [{
+            "id": 1,
+            "category": "concert",
+            "title": "Tomorrow land",
+            "description": "Festival op de Schorre",
+            "location": "boom",
+            "date": "August 8, 2021",
+            "time": "09:00"
+        },
+        {
+            "id": 2,
+            "category": "concert",
+            "title": "Work Werchter",
+            "description": "Festival Rock",
+            "location": "Werchter",
+            "date": "july , 2021",
+            "time": "09:00"
+        }
+    ]
+}
